@@ -1,4 +1,4 @@
-# 4weird Games 🎮
+# 4weird Games 🎮 (test)
 
 **The open HTML5 game platform where weird ideas become playable reality.**
 
